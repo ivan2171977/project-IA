@@ -1,6 +1,6 @@
 Sistema de predición del indice de contaminación en el aire en Colombia.
 
-https://github.com/ivan2171977/project-IA/blob/main/Proyecto%20polucion%20banner.png
+[![Proyecto-polucion-banner.png](https://i.postimg.cc/yd2dC3tk/Proyecto-polucion-banner.png)](https://postimg.cc/k6F9xGnm)
 
 Autores: ivan mendoza oñate, deyci toloza ortega
 
